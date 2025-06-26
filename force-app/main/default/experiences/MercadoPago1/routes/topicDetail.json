@@ -1,0 +1,11 @@
+{
+  "activeViewId" : "1c4f7366-b3ff-43e8-b6c4-b47e2091c8a2",
+  "appPageId" : "1ed0525b-fc94-4c2a-b297-b2b64e8b6cb6",
+  "configurationTags" : [ ],
+  "devName" : "Topic_Detail",
+  "id" : "322ed5c1-a072-4527-9e36-d36c3d4a590a",
+  "label" : "Topic Detail",
+  "routeType" : "topic",
+  "type" : "route",
+  "urlPrefix" : "topic"
+}
